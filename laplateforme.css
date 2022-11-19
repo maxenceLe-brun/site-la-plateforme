@@ -192,5 +192,42 @@ body {
 .medleft {
 	text-align: left;
 	position: absolute;
-	left: -25px;
+	left: -20px;
+	background-color:#9CA5B4;
+	width:200px;
+	height:350px;
+	border:0px solid #000;"
+}
+.medmid {
+	text-align: left;
+	position: absolute;
+	left: 210px;
+	background-color:#9CA5B4;
+	width:200px;
+	height:350px;
+	border:0px solid #000;"
+}
+.medright {
+	text-align: left;
+	position: absolute;
+	left: 440px;
+	background-color:#9CA5B4;
+	width:200px;
+	height:350px;
+	border:0px solid #000;"
+}
+.imgbd3 {
+	position: absolute;
+	top: 930px;
+	left: 70px;
+}
+.imgbd4 {
+	position: absolute;
+	top: 930px;
+	left: 300px;
+}
+.imgbd5 {
+	position: absolute;
+	top: 930px;
+	left: 535px;
 }
