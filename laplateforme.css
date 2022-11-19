@@ -18,28 +18,33 @@ header {
 	top: 5px;
 }
 
-.qui-sommes-nous {
+.qsnhdr {
 	left: 500px;
 }
 
-.aws-restart {
+.arhdr {
 	left: 725px;
 }
-.contact {
+.chdr {
 	position : absolute;
 	left: 1150px;
 }
-.news {
+.nhdr {
 	left: 1270px;
 }
-.la-plateforme-start {
+.lpshdr {
 	left: 900px;
 }
-.rgb1 {
+.rgbhdr {
 	position: absolute;
 	text-decoration:none;
 	top: 35px;
 	color: #2e3841;
+}
+.rgbftr {
+	position: absolute;
+	text-decoration:none;
+	color: #336699;
 }
 .bdup {
 	position: absolute;
@@ -195,7 +200,7 @@ body {
 	left: -20px;
 	background-color:#9CA5B4;
 	width:200px;
-	height:350px;
+	height:405px;
 	border:0px solid #000;"
 }
 .medmid {
@@ -204,7 +209,7 @@ body {
 	left: 210px;
 	background-color:#9CA5B4;
 	width:200px;
-	height:350px;
+	height:405px;
 	border:0px solid #000;"
 }
 .medright {
@@ -213,7 +218,7 @@ body {
 	left: 440px;
 	background-color:#9CA5B4;
 	width:200px;
-	height:350px;
+	height:405px;
 	border:0px solid #000;"
 }
 .imgbd3 {
@@ -231,3 +236,44 @@ body {
 	top: 930px;
 	left: 535px;
 }
+.LP {
+	position: absolute;
+	left:500px;
+}
+.lp {
+	position: absolute;
+	top: 10px;
+}
+.accueil {
+	position: absolute;
+	top:50px;
+}
+.qsnftr {
+	position: absolute;
+	top:80px;
+}
+.nbftr {
+	position: absolute;
+	top:110px;
+}
+.ipdnftr {
+	position: absolute;
+	top:140px;
+}
+.andpftr {
+	position: absolute;
+	top: 170px;
+}
+.aldpftr {
+	position: absolute;
+	top: 200px;
+}
+.taftr {
+	position: absolute;
+	top: 230px;
+}
+.LF {
+	position: absolute;
+	left:800px;
+}
+.lf {}
