@@ -56,7 +56,7 @@ header {
 }
 .cplace {
 	position: absolute;
-	top: 700px;
+	top: 600px;
 }
 .resize {
 	height: 80px;
@@ -71,7 +71,7 @@ header {
 	height: 400px;
 	position: absolute;
 	left: 707px;
-	top: 0;
+	top: 100px;
 
 }
 .imgcmed1 {
@@ -192,12 +192,12 @@ body {
 	text-align: left;
 	position: absolute;
 	top: 200px;
-	left: 725px;
+	left: 775px;
 }
 .atxtmed {
 	text-align: center;
 	position: absolute;
-	top: 800px;
+	top: 825px;
 	left: 30px;
 }
 .amedleft {
@@ -305,6 +305,6 @@ body {
 }
 .nptxtmed {
 	position: absolute;
-	top: 600px;
+	top: 500px;
 	left: 200px;
 }
