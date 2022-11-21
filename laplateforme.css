@@ -3,14 +3,12 @@ header {
 	top: 0;
 	left:0;
 }
-
 #rectangle {
 	width: 1000;
 	height: 100;
 	background-color: #336699;
 	left:0;
 }
-
 .imghdr {
 	height: 75px;
 	position: absolute;
@@ -307,4 +305,9 @@ body {
 	position: absolute;
 	top: 500px;
 	left: 200px;
+}
+.ntxtup {
+	position: absolute;
+	top: 150px;
+	left: 250px;
 }
