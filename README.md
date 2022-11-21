@@ -9,3 +9,7 @@ Gonna break my record of time without playing any games (i hope next week gonna 
 
 11/20 edit : WHY IS MY CODE IN GREEN IN laplateforme.css ?????? I DON'T UNDERSTAND WHY AT LINE 29-30 IT'S FREAKING GREEN
 please... i can't mentally handle it... i... i don't, i don't wanna be here. just joking but why is this green? i really don't understand  
+
+11/21 midnight edit : a space was the cause of all of this T_T
+This will be hard to complete all, and i'm already sleepy but nope, you have to work till you've finished (except for contact.html bcs no shit sherlock)
+you must be a beat saber professional to end this in one day kekw
