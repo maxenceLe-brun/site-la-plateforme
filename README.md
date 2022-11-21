@@ -19,3 +19,6 @@ nah i don't get it, this is masochism... i invented something lmao, imagine a va
 yeah, i'm in a mental breakdown, but i somehow like it
 (i'll do the plesk update, and ask if i can continue this project tomorrow, because i'm a dogsht for the style, and this is why i'm stuck, because i don't like what comes to my mind, and i re start, and again, and again... until i find something good enough: actually, i don't really like the news.html, too impersonnal to me as i do it in a hurry. I would prefer remastering the whole design of each page, and changing all of the text, but if i did that, i would be still at accueil.html.
 i hope they'll understand 
+
+11/21 midnight 3rd edit : Plesk is finally managed to show my CV, but i didn't put all theses files, i'll do it tomorrow when i'm in the basement
+i don't even feel the need to sleep by now, but i'll give it a try (pls make me wake up in time kekw)
