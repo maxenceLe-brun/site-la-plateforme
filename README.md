@@ -13,3 +13,7 @@ please... i can't mentally handle it... i... i don't, i don't wanna be here. jus
 11/21 midnight edit : a space was the cause of all of this T_T
 This will be hard to complete all, and i'm already sleepy but nope, you have to work till you've finished (except for contact.html bcs no shit sherlock)
 you must be a beat saber professional to end this in one day kekw
+
+11/21 midnight 2nd edit: tired but deadline is for tomorrow... it's been so long since i didn't touch my game for a whole weekend (didn't even touch grass)
+nah i don't get it, this is masochism... i invented something lmao, imagine a vampire piston : you put a vampire into a machine, kill it with holy water so the machine is retracted, and then you give blood to the vampire, that respawn and push up the piston. You just have to repeat the process and it's an infinite power that comes to you XDDDD
+yeah, i'm in a mental breakdown, but i somehow like it
